@@ -27,7 +27,7 @@ const projectsData = [
     id: 3,
     title: " Unified Banking and Financial Platform",
     description: "Engineered and deployed a SaaS-Driven Financial Management and Multi-Bank Aggregation platform using Next.js and TypeScript",
-    image: "/images/projects/Transaction History.jpg",
+    image: "/images/projects/12.jpg",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/abhishek-2k2/SaaS-Driven_financial_managment_system",
     previewUrl: "https://payflow-seven.vercel.app/",
